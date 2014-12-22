@@ -1,5 +1,5 @@
 name: emerge
-version: 1.0.1
+version: 1.1.0
 description: Emerge something inside the Gentoo chroot created by attilaolah/gentoo
 kyewords:
   - gentoo
