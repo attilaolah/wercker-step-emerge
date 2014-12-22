@@ -1,0 +1,13 @@
+name: emerge
+version: 1.0.0
+description: Emerge something inside the Gentoo chroot created by attilaolah/gentoo
+kyewords:
+  - gentoo
+  - portage
+properties:
+  atom:
+    type: string
+  prefix:
+    type: string
+  use:
+    type: string
